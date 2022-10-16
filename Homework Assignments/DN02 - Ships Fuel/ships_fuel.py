@@ -33,7 +33,7 @@ the task too much, do we?
 cargo_weigth = int(input("Enter the weight of the cargo: "))
 
 fuel_quantity = 0  # Mandatory Task
-corected_fuel_cuantity = 0
+corected_fuel_cuantity = 0  # Extra task
 
 while cargo_weigth > 0:
     cargo_weigth = cargo_weigth // 3 - 2
